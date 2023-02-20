@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "b4e6d978d5ff839a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b58eb469b155edd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8163c26fe4dd47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d61d1265df7f7ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM/REDES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa9af8321fa2800d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM/HARDWARE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cc9c8576f595697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM/WINDOWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3bccaaf4b1269c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cab5092a3b4929ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "51a0f27c5f833d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cbb010785f4c752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "445083da556f866c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce867a5117eac115",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d925fe445b75b0af",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b0dcf281700f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985f33cde0324efd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SYSTEM/UBUNTU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73fb8d568330c6d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SYSTEM/UBUNTU.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53737dd8dc7c33e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c3f703db0ec5954",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SYSTEM/UBUNTU.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8cbb010785f4c752",
+  "lastOpenFiles": [
+    "SYSTEM/WINDOWS.md",
+    "SYSTEM/HARDWARE.md",
+    "SYSTEM/REDES.md",
+    "IPM/INTERAÇÃO PESSOA-MÁQUINA.md"
+  ]
+}
