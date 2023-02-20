@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d61d1265df7f7ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM/REDES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa9af8321fa2800d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM/HARDWARE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cc9c8576f595697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM/WINDOWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3bccaaf4b1269c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM/UBUNTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYSTEM/UBUNTU.md",
+                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYSTEM/UBUNTU.md",
+                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SYSTEM/UBUNTU.md"
+                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md"
               }
             }
           }
@@ -195,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cbb010785f4c752",
+  "active": "e8163c26fe4dd47b",
   "lastOpenFiles": [
-    "SYSTEM/WINDOWS.md",
-    "SYSTEM/HARDWARE.md",
+    "README.md",
     "SYSTEM/REDES.md",
-    "IPM/INTERAÇÃO PESSOA-MÁQUINA.md"
+    "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
+    "SYSTEM/WINDOWS.md",
+    "SYSTEM/HARDWARE.md"
   ]
 }
