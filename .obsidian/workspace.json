@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8163c26fe4dd47b",
+            "id": "1fc49f0b2ba84058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
+                "file": "PE/RECURSOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
+                "file": "PE/RECURSOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
+                "file": "PE/RECURSOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPM/INTERAÇÃO PESSOA-MÁQUINA.md"
+                "file": "PE/RECURSOS.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8163c26fe4dd47b",
+  "active": "1fc49f0b2ba84058",
   "lastOpenFiles": [
+    "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
     "README.md",
     "SYSTEM/REDES.md",
-    "IPM/INTERAÇÃO PESSOA-MÁQUINA.md",
     "SYSTEM/WINDOWS.md",
     "SYSTEM/HARDWARE.md"
   ]
